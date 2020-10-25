@@ -1,0 +1,45 @@
+,0
+Start,2020-08-15 16:00:00+00:00
+End,2020-09-05 11:00:00+00:00
+Duration,20 days 19:00:00
+Exposure Time [%],0.0
+Equity Final [$],10000.0
+Equity Peak [$],10000.0
+Return [%],0.0
+Buy & Hold Return [%],13.736920071131875
+Max. Drawdown [%],-0.0
+Avg. Drawdown [%],
+Max. Drawdown Duration,
+Avg. Drawdown Duration,
+# Trades,0
+Win Rate [%],
+Best Trade [%],
+Worst Trade [%],
+Avg. Trade [%],
+Max. Trade Duration,
+Avg. Trade Duration,
+Profit Factor,
+Expectancy [%],
+SQN,
+Sharpe Ratio,
+Sortino Ratio,
+Calmar Ratio,
+_strategy,SmaCross
+_equity_curve,"                            Equity  DrawdownPct  DrawdownDuration
+Datetime                                                         
+2020-08-15 16:00:00+00:00  10000.0          0.0               NaN
+2020-08-15 17:00:00+00:00  10000.0          0.0               NaN
+2020-08-15 18:00:00+00:00  10000.0          0.0               NaN
+2020-08-15 19:00:00+00:00  10000.0          0.0               NaN
+2020-08-15 20:00:00+00:00  10000.0          0.0               NaN
+...                            ...          ...               ...
+2020-09-05 07:00:00+00:00  10000.0          0.0               NaN
+2020-09-05 08:00:00+00:00  10000.0          0.0               NaN
+2020-09-05 09:00:00+00:00  10000.0          0.0               NaN
+2020-09-05 10:00:00+00:00  10000.0          0.0               NaN
+2020-09-05 11:00:00+00:00  10000.0          0.0               NaN
+
+[500 rows x 3 columns]"
+_trades,"Empty DataFrame
+Columns: [Size, EntryBar, ExitBar, EntryPrice, ExitPrice, PnL, ReturnPct, EntryTime, ExitTime, Duration]
+Index: []"
